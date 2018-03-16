@@ -5,11 +5,11 @@ A small library that check html tags
 
 ## Installation
 
-  `npm install seochecker`
+  `npm install @chihhunglin/seochecker`
 
 ## Usage
 
-    const t = require('seochecker')
+    const t = require('@chihhunglin/seochecker')
 
     // t(rules, file, storngMax)
 

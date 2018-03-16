@@ -1,5 +1,5 @@
 {
-  "name": "seochecker",
+  "name": "@chihhunglin/seochecker",
   "version": "0.1.0",
   "description": "seo checker",
   "main": "index.js",
@@ -10,8 +10,17 @@
     "seo"
   ],
   "author": "peter lin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chihhunglin/seochecker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chihhunglin/seochecker/issues"
+  },
+  "homepage": "https://github.com/chihhunglin/seochecker#readme"
 }
