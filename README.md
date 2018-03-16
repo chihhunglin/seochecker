@@ -9,7 +9,7 @@ A small library that check html tags
 
 ## Usage
 
-    const t = require('./seochecker')
+    const t = require('seochecker')
 
     // t(rules, file, storngMax)
 
