@@ -1,0 +1,17 @@
+{
+  "name": "seochecker",
+  "version": "1.0.0",
+  "description": "seo checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seo"
+  ],
+  "author": "peter lin",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
